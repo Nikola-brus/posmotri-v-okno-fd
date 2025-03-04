@@ -83,7 +83,6 @@ ol {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 534px;
 }
 
 .content__accent {
@@ -94,7 +93,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  max-height: 298px;
+  height: 298px;
   overflow-y: auto;
   position: relative;
 }
